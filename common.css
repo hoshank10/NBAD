@@ -1,0 +1,60 @@
+header {
+  background-color: whitesmoke;
+}
+
+.menu {
+  float: right;
+  padding-left: 10px;
+  padding-right: 40px;
+}
+
+.menu a {
+  padding-left: 25px;
+  font-weight: 600;
+  color: black;
+}
+
+footer {
+  background-color: rgb(41, 163, 211);
+}
+
+.social {
+  float: right;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.social a {
+  padding-left: 10px;
+}
+
+.copyrights h5 {
+  float: right;
+  padding-right: 10px;
+}
+
+.copyrights {
+  margin-top: auto;
+  margin-bottom: 5px;
+}
+
+.menu1 {
+  background-color: rgb(41, 163, 211);
+  font-weight: 600;
+  padding-left: 65px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.menu1 a {
+  color: black;
+  padding: 10px;
+}
+
+.tagline {
+  margin-top: -10px;
+}
+
+.website_name {
+  color: black;
+}
