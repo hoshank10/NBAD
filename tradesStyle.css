@@ -16,7 +16,7 @@
   margin-left: 40px;
 }
 
-.category h4 {
+.category h3 {
   color: white;
 }
 
@@ -25,6 +25,10 @@
   font-weight: bold;
 }
 
-main h5 {
+.title h5 {
   padding-top: 20px;
+}
+
+li {
+  color: white;
 }

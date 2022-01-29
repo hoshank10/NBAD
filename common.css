@@ -1,5 +1,5 @@
 header {
-  background-color: whitesmoke;
+  background-color: ivory;
 }
 
 .menu {
@@ -13,9 +13,16 @@ header {
   font-weight: 600;
   color: black;
 }
+.menu1 {
+  background-color: rgb(255, 204, 0);
+  font-weight: 600;
+  padding-left: 65px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
 footer {
-  background-color: rgb(41, 163, 211);
+  background-color: rgb(255, 204, 0);
 }
 
 .social {
@@ -36,14 +43,6 @@ footer {
 .copyrights {
   margin-top: auto;
   margin-bottom: 5px;
-}
-
-.menu1 {
-  background-color: rgb(41, 163, 211);
-  font-weight: 600;
-  padding-left: 65px;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 .menu1 a {

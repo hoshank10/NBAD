@@ -6,8 +6,13 @@ main {
   min-height: 100vh;
 }
 
-main h5 {
+.desc h5 {
   color: white;
   padding-top: 150px;
+  padding-left: 40px;
+}
+
+.desc p {
+  color: white;
   padding-left: 40px;
 }
