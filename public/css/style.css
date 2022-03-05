@@ -1,5 +1,5 @@
-main {
-  background-image: url("images/wall.jpg");
+.mainhomepage {
+  background-image: url("../images/wall.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
